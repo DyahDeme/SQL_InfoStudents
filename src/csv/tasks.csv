@@ -1,0 +1,6 @@
+title,parenttask,maxxp
+C1_SimpleBashUtils,,350
+C2_s21_string+,C1_SimpleBashUtils,650
+C3_s21_decimal,C2_s21_string+,350
+C5_s21_matrix,C3_s21_decimal,200
+C6_SmartCalc_v1.0,C5_s21_matrix,650
